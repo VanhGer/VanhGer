@@ -26,7 +26,5 @@ Information Technology and my favourite field is Blockchain and Functional Progr
 
 ### 📊 Github's stats
 
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanhger&show_icons=true&locale=en&layout=compact" alt="vanhger" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanhger&show_icons=true&locale=en" alt="vanhger" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanhger&show_icons=true&locale=en&layout=compact" alt="vanhger" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanhger&show_icons=true&locale=en" alt="vanhger" /></p>
