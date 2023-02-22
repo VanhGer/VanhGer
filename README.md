@@ -30,4 +30,3 @@ Information Technology and my favourite field is Blockchain and Functional Progr
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanhger&show_icons=true&locale=en" alt="vanhger" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanhger&" alt="vanhger" /></p>
