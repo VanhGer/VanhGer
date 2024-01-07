@@ -6,8 +6,8 @@
 ----
 
 ### Overview
-I'm a sophomore at VNU-UET, which is one of the most famous universities in Vietnam. My major is
-Information Technology and my favourite fields are Blockchain and Functional Programming
+I'm a third-year student at VNU-UET, which is one of the most famous universities in Vietnam. My major is
+Information Technology and my favourite fields are Blockchain and Programming.
 
 ----
 
