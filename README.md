@@ -7,7 +7,7 @@
 
 ### Overview
 I'm a third-year student at VNU-UET with a keen interest in Zero-Knowledge Proofs (ZKP) and Rust programming.
-
+- 📫 How to reach me **vietanhpg2003@gmail.com**
 ----
 
 ### Languages and Tools:
@@ -39,9 +39,10 @@ I'm a third-year student at VNU-UET with a keen interest in Zero-Knowledge Proof
 ----
 
 ### Contact:
+
 <p align="left">
 <a href="https://linkedin.com/in/pham-gia-viet-anh-68676b223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pham-gia-viet-anh-68676b223/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCQrH1wlRdoziACRrgRI3QxA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vanhg" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/iamvanhg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/iamvanhg/" height="30" width="40" /></a>
 </p>
 
 ----
